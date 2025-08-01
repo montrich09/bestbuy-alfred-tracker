@@ -1,0 +1,10 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=Alfred Search Box
+Comment=Alfred-style search box for quick access to applications and web searches
+Exec=python3 /home/mont/Documents/Work/bestbuy-alfred-tracker/launch_alfred.py
+Icon=system-search
+Terminal=false
+Categories=Utility;System;
+Keywords=search;alfred;launcher;productivity; 
